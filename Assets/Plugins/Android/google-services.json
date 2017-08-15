@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "433045401234",
+    "firebase_url": "https://my-firebase-test-88855.firebaseio.com",
+    "project_id": "my-firebase-test-88855",
+    "storage_bucket": "my-firebase-test-88855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433045401234:android:096cde52f8855184",
+        "android_client_info": {
+          "package_name": "com.eleni.firstFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433045401234-o0tkmmg9gjnd3nn9aolod3ooe9j46rhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAetBkAPSruIcdtL3CZ-LECy-g_I1FEdg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
